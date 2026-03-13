@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0035-search-insert-position) |
 | [0217-contains-duplicate](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [1124-longest-well-performing-interval](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/1124-longest-well-performing-interval) |
 ## Hash Table
@@ -27,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
