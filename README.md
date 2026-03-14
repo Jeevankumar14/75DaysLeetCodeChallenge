@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [1124-longest-well-performing-interval](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/1124-longest-well-performing-interval) |
 ## Hash Table
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0540-single-element-in-a-sorted-array) |
@@ -66,4 +68,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0240-search-a-2d-matrix-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
