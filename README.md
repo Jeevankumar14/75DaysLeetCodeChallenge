@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1124-longest-well-performing-interval](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/1124-longest-well-performing-interval) |
 | [1544-make-the-string-great](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/1544-make-the-string-great) |
 ## Monotonic Stack
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1544-make-the-string-great](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/1544-make-the-string-great) |
 ## Matrix
