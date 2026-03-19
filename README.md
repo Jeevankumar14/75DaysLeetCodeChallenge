@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -130,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
