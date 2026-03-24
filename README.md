@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0367-valid-perfect-square) |
 ## Interactive
 |  |
@@ -161,4 +162,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
