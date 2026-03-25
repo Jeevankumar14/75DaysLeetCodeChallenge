@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 ## Binary Search
 |  |
@@ -71,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0540-single-element-in-a-sorted-array) |
@@ -82,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0367-valid-perfect-square) |
@@ -165,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
