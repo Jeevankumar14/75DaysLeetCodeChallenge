@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1124-longest-well-performing-interval](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/1124-longest-well-performing-interval) |
 | [1544-make-the-string-great](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/1544-make-the-string-great) |
@@ -189,4 +190,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0994-rotting-oranges) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
