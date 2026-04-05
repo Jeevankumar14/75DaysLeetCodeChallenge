@@ -24,15 +24,15 @@ class Solution {
         int low=0;
         int b=n-1;
         while(low<=b){
-            int mid=low+(b-low)/2;
-            if(matrix[row][mid]==target){
+            int mi=low+(b-low)/2;
+            if(matrix[row][mi]==target){
                 return true;
             }
-            else if(matrix[row][mid]>target){
-                b=mid-1;
+            else if(matrix[row][mi]>target){
+                b=mi-1;
             }
             else{
-                low=mid+1;
+                low=mi+1;
             }
         }
         return false;
