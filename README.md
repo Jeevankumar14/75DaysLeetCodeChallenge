@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0713-subarray-product-less-than-k) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0441-arranging-coins) |
 ## Interactive
 |  |
 | ------- |
