@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0994-rotting-oranges) |
 ## Design
 |  |
@@ -218,4 +219,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
