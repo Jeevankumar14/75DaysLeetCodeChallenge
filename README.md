@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0547-number-of-provinces) |
 | [0994-rotting-oranges](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0994-rotting-oranges) |
 ## Design
 |  |
@@ -227,8 +228,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
