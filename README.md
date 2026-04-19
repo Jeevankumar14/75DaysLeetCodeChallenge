@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [0994-rotting-oranges](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0994-rotting-oranges) |
 | [1124-longest-well-performing-interval](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/1124-longest-well-performing-interval) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Hash Table
 |  |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0713-subarray-product-less-than-k) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Math
 |  |
 | ------- |
