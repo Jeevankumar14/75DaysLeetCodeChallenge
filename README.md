@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0547-number-of-provinces) |
 | [0994-rotting-oranges](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0994-rotting-oranges) |
@@ -229,12 +230,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0547-number-of-provinces) |
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0543-diameter-of-binary-tree) |
 ## Union-Find
 |  |
