@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0113-path-sum-ii](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0543-diameter-of-binary-tree) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0113-path-sum-ii](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0463-island-perimeter) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0113-path-sum-ii](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0543-diameter-of-binary-tree) |
@@ -266,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0547-number-of-provinces) |
+## Backtracking
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0113-path-sum-ii) |
 <!---LeetCode Topics End-->
