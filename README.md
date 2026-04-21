@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0090-subsets-ii](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0342-power-of-four) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0113-path-sum-ii) |
 ## Binary Search Tree
 |  |
