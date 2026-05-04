@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
