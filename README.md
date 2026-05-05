@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
+| [0876-middle-of-the-linked-list](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 ## Tree
 |  |
 | ------- |
