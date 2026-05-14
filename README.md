@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0713-subarray-product-less-than-k) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0561-array-partition](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0561-array-partition) |
 | [0977-squares-of-a-sorted-array](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0409-longest-palindrome) |
+| [0561-array-partition](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0561-array-partition) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -372,4 +375,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0211-design-add-and-search-words-data-structure) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Jeevankumar14/75DaysLeetCodeChallenge/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
