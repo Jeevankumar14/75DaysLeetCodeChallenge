@@ -3,7 +3,7 @@ class Solution {
         int len=s2.length();
         HashMap<Character,Integer>m1=new HashMap<>();
         HashMap<Character,Integer>m2=new HashMap<>();
-        if(s1.length()>s2.length()){
+        if(s1.length()>len){
             return false;
         }
         for(int i=0;i<s1.length();i++){
