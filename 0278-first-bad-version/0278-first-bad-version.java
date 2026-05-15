@@ -6,7 +6,7 @@ public class Solution extends VersionControl {
         
         int l=0;
         int r=n;
-        int ans=Integer.MAX_VALUE;
+        int a=Integer.MAX_VALUE;
         while(l<=r){
             int mid=l+(r-l)/2;
             boolean res=isBadVersion(mid);
@@ -14,11 +14,11 @@ public class Solution extends VersionControl {
                 l=mid+1;
             }
             else{
-                ans=mid;
+                a=mid;
                 r=mid-1;
             }
         }
 
-        return ans;
+        return a;
     }
 }
