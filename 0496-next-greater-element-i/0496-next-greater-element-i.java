@@ -14,7 +14,9 @@ class Solution {
             map.put(st.pop(),-1);
         }
 
-        for(int i=0;i<nums1.length;i++){
+        int k=nums1.length;
+
+        for(int i=0;i<k;i++){
             nums1[i]=map.get(nums1[i]);
         }
         
